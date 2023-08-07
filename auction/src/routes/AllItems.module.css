@@ -1,0 +1,8 @@
+.label {
+    display: inline-block;
+    font-weight: 600; 
+    width: 120px;
+    white-space: nowrap;
+    text-align: right;
+    margin-right: 10px;
+}
